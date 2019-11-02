@@ -15,7 +15,7 @@ root result : 12345678901234567890
 
 nth_root:1000
  
-calculation time:284 ms on my i7 6500U (laptop).
+calculation time: 284ms on my i7 6500U (laptop).
 
 ## Algorithm:
 
