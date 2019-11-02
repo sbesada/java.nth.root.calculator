@@ -4,7 +4,7 @@ BigInteger &amp; BigDecimal nth Root Calculator
 
 This algorithm was tested with numbers up to 20000 digits but it can work with bigger numbers.
 
-The algorithm result, can be a BigInteger if the result is an exact integer or a BigDecimal.
+The result can be a BigInteger if the result is an exact integer or a BigDecimal.
 
 Example:
 integer: 12345678901234567890 ^ 1000
