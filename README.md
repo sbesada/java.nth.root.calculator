@@ -15,7 +15,7 @@ root result : 12345678901234567890
 
 nth_root:1000
 
-number of the digits:19091
+number of digits:19091
  
 calculation time:284 ms on my i7 6500U laptop.
 
